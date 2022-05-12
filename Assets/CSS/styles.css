@@ -1,0 +1,11 @@
+:root {
+    --pink: #ef476fff;
+    --orange: #ffd166ff;
+    --green: #06d6a0ff;
+    --blue: #118ab2ff;
+    --midnight-green: #073b4cff;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
